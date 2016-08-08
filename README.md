@@ -10,7 +10,8 @@ Check out the [#cascadia16](https://twitter.com/hashtag/cascadia16?src=hash) has
 
 ## CSS Day
 
-### Natalya Shelburne - Practical color theory for people who code
+### Practical color theory for people who code
+#### Natalya Shelburne
 
 Creating a color pallete is not magic, it's science and here's the [formula](http://tallys.github.io/color-theory/).
 
