@@ -1,4 +1,4 @@
-* [CSS Day](#CSS-Day)
+* [CSS Day](#css-day)
 
 # CascadiaFest 2016
 
