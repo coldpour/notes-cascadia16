@@ -11,11 +11,11 @@ Check out the [#cascadia16](https://twitter.com/hashtag/cascadia16?src=hash) has
 ## CSS Day
 
 ### Practical color theory for people who code
-#### Natalya Shelburne
+[Slides](https://docs.google.com/presentation/d/1ytSMRNpNrD9CWms351X4xelQuJT24tIqKnIzSbe2OQ0/edit#slide=id.g131bf8bb94_0_51)
 
 Creating a color pallete is not magic, it's science and here's the [formula](http://tallys.github.io/color-theory/).
 
-[Slides](https://docs.google.com/presentation/d/1ytSMRNpNrD9CWms351X4xelQuJT24tIqKnIzSbe2OQ0/edit#slide=id.g131bf8bb94_0_51)
+Natalya Shelburne [twitter](http://twitter.com) [github](http://github.com)
 
 ### Justin McDowell - Bauhaus in the Browser
 
