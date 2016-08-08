@@ -15,7 +15,7 @@ Check out the [#cascadia16](https://twitter.com/hashtag/cascadia16?src=hash) has
 
 Creating a color pallete is not magic, it's science and here's the [formula](http://tallys.github.io/color-theory/).
 
-Natalya Shelburne [![twitter](./Twitter_bird_logo_2012.svg)](http://twitter.com) [github](http://github.com)
+Natalya Shelburne [![twitter](Twitter_bird_logo_2012.svg)](http://twitter.com) [github](http://github.com)
 
 ### Justin McDowell - Bauhaus in the Browser
 
