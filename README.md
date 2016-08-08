@@ -72,3 +72,7 @@ Building a community around your open source project takes more work and differe
 
 Browsers are evolving to support the features you want. CSS, HTML, and JS standards writers want input from developers, their users. Submit browser bugs. Do it.
 
+## Browser Day
+
+## Node Day
+
