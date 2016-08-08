@@ -1,4 +1,6 @@
 * [CSS Day](#css-day)
+* [Browser Day](#browser-day)
+* [Node Day](#node-day)
 
 # CascadiaFest 2016
 
