@@ -1,3 +1,5 @@
+* [CSS Day](#CSS Day)
+
 # CascadiaFest 2016
 
 Here are my tl;drs for the talks that I saw last week at [CascadiaFest](http://2016.cascadiafest.org). Videos of all the talks will be posted to the [CascadiaJS YouTube Channel](https://www.youtube.com/user/cascadiajs/playlists) in a few days.
