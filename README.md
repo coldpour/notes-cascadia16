@@ -78,5 +78,50 @@ Browsers are evolving to support the features you want. CSS, HTML, and JS standa
 
 ## Browser Day
 
+### Rebecca Murphey - Making it better without making it over
+
+Every technology decision is eventually regrettable. Apply the shiny new techniques you're learning about on twitter and at conferences to the codebase you're maintaining. Refactoring is cheaper becuase you can keep making money while making things better.
+
+[Slides](https://speakerdeck.com/rmurphey/cascadiajs-making-it-better-without-making-it-over)
+
+### Nolan Lawson - Demystifying Web Workers and Service Workers
+
+Noticing 'jank' on your site? That's cause JS code and DOM updates run in the same thread. You only have 16.7ms to do your JS calc. Web Workers run in a background thread for the tab. Service workers run in a background thread even if the tab is closed. Use Web Workers to remove 'jank' and Service Workers to create an offline experience complete with push notifications.
+
+[Slides](https://nolanlawson.github.io/cascadia-2016/#/)
+[Twitter](https://twitter.com/nolanlawson)
+[Github](https://github.com/nolanlawson)
+
+### Seth Samuel - Arbitrary Computation on the GPU Using WebGL
+
+If you have a large computation you want to do from the browser and you can express it as matrix multiplication, you can use the GPU directly from the browser and speed it up by a lot.
+
+[Slides](http://sethsamuel.github.io/talks/2016-08-03-cascadiafest/public/)
+[Twitter](https://twitter.com/sethfsamuel)
+[Github](https://github.com/sethsamuel)
+
+### Liz Abinante - In Defense of Static Sites
+
+Don't rebuild a select form element in JS. You'll get it wrong. Do you really need a database? Do you really need a server? Do you really need JS at all? HTML and CSS load fast and do a lot already especially with templaters and preprocessers. Don't start with complexity by default, only add if you really need it. 
+
+[Slides](https://speakerdeck.com/feministy/in-defense-of-static-sites)
+[Twitter](https://twitter.com/feministy)
+[Github](https://github.com/feministy)
+
+### Noah Adams - Scripting in the 3rd party: True tales of horror and hope from other people's pages
+
+Writing code to inject into other people's webapp is probably the hardest thing ever. Think about combining every active browser variant, with every historical version of every library. Hacking hacks is the status quo.
+
+[Slides](https://noahadams.github.io/scripting-in-the-third-party/#/)
+[Twitter](https://twitter.com/noah_adams)
+[Github](https://github.com/noahadams)
+
+### Tara Scherner de la Fuente - Onboarding Superheroes
+
+New employees are your company's lifeblood. Only you have the power to make their onboarding experience awesome. Reintroduce yourself later. Make a secret pact to remind them of people's names. Make another secret pact to answer their stupid questions. Ask, "what are your dietary preferences" so you don't presume anything.
+
+[Twitter](https://twitter.com/MediaRemedial)
+[Github](https://github.com/wisetara)
+
 ## Node Day
 
