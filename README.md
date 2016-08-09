@@ -82,7 +82,7 @@ Browsers are evolving to support the features you want. CSS, HTML, and JS standa
 
 Every technology decision is eventually regrettable. Apply the shiny new techniques you're learning about on twitter and at conferences to the codebase you're maintaining. Refactoring is cheaper becuase you can keep making money while making things better.
 
-[Slides](https://speakerdeck.com/rmurphey/cascadiajs-making-it-better-without-making-it-over)
+[Slides](
 
 ### Nolan Lawson - Demystifying Web Workers and Service Workers
 
@@ -123,5 +123,74 @@ New employees are your company's lifeblood. Only you have the power to make thei
 [Twitter](https://twitter.com/MediaRemedial)
 [Github](https://github.com/wisetara)
 
+### Rachel White - JavaScript as Play: A primer on getting started with video games
+
+[Slides]()
+[Twitter](https://twitter.com/ohhoe)
+[Github]()
+
+### Thomas Wilburn - Custom elements in production
+
+Web components are reusable, building blocks that are simple to use and don't require proprietary frameworks.
+
+### Sarah Meyer - JavaScript Minus JavaScript
+
+Your site should work with Javascript disabled. As a web-dev, you have one job, render comprehensible HTML quickly. Ignoring accessibility is a sure path to the dark side.
+
+### Dale Bustad - Embrace HTTP/2 Server Push
+
+HTTP/2 can speed up your page load times by parallelizing your requests. It also remembers that you already did the SSL handshake and eliminates it on subsequesnt requests. Bundling becomes obsolete. So use [interlockjs](https://github.com/interlockjs/interlock) instead.
+
+### Marcy Sutton - Where in the Stack is Carmen Sanfrancisco?
+
+Accessibility problems can creep into your app from every part of your stack. Be vigilent and test in a screen reader. Several browser extensions exist to find accessibility problems on the page.
+
 ## Node Day
 
+### Mariko Kosaka - Making a Robot Eye with JavaScript - or Magic of Computer Vision Unraveled
+
+Images are just data and computer vision is just interpreting that data. You can access the data through the browsers' `<canvas>` element and then write your own color filters or detect edges or specific images all in browser js.
+
+### Pawel Szymczykowski - Why did the robot cross the road? Computer vision, robots and mobile games.
+
+Need to watch ads to level up or unlock characters in your phone game? Don't watch the ads yourself, build a robot to watch and tap through ads for you.
+
+### Russell Hay - Happy Sparkle Glitter Fun Zone - LEDs and JavaScript
+
+You can program LEDs with JS to tell you the weather forecast at a glance, complete with rain animations.
+
+### Jenn Turner - Open Source beyond software
+
+There's more to your open source project than the software. Separating people into "coders" and "non-coders" is useless and needlessly degrading. If you want your project to thrive, welcome all contributers and their talents.
+
+### Ivana McConnell - Our Identities Have No Bodies: Web, Code, and Self-Exploration
+
+It's becoming less acceptable to be annonymous on the web which prevents people from exploring various parts of their identity that they may want to keep private. It can also lead to harassment. When building new experiences online, consider if you can allow your users to remain annonymous.
+
+### Bryan Hughes - API Design Through the Lens of Photography
+
+Learn an art. Embrace your constraints. Build beautifully creative APIs.
+
+### Brock Whitten - To the Moon! - Overcoming latency for fun and adventure.
+
+Network, disk, memory, redis, in-process LRU cache. Each of these is an order-of-magnatude faster than the previous. With 5 orders of magnatude to play with, make fast applications.
+
+### Nwokedi Idika - Demystifying the Darknet in 30 Minutes or Less
+
+If you want to browse the darknet or communicate with servers annonymously, download the TOR browser. The TOR protocol is like locking your message in a series of lockboxes that can only be opened by the individuals you specify. The individuals don't know where the message came from of where it's ultimately going.
+
+### Bill Automata - require('crypto') is a human right
+
+Strongly encrypt all of your app's network traffic. Your users deserve it.
+
+### Safia Abdalla - The Hitchhiker's Guide to All Things Memory in Javascript
+
+If your app crashes the browser, has jank, or just sucks, use memwatch, heapdump, v8-profiler, and other performance monitoring tools to see if the garbage collector is having to work overtime cleaning up after you.
+
+### Stephan Bönnemann - Greenkeeper – managing dependencies with confidence
+
+Dependency management is hard for for good reason. [Greenkeeper](https://greenkeeper.io/) makes it way easier.
+
+### Alejandro Oviedo - Demystifying (JavaScript) engines
+
+All 4 JS engines are open source. [V8](https://developers.google.com/v8/), [JavaScriptCore](http://trac.webkit.org/wiki/JavaScriptCore), [ChakraCore](https://github.com/Microsoft/ChakraCore), [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey). They take source, parse it, transform it into bytecode and execute it. They all do it slightly differently. They all implement GC slightly differently. They all perform slightly differently.
