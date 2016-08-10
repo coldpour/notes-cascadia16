@@ -28,11 +28,11 @@ Check out the [#cascadia16](https://twitter.com/hashtag/cascadia16?src=hash) has
  * Sass and PostCSS are both preprocessors that do certain things really well. Use them for their individual strengths.
 1. [Tyler Sticka - SVG: So Very Good](https://2016.cascadiafest.org/speakers/tyler-sticka/)
  * Most image formats express images in a bitmap of pixels. SVG expresses images in xml which is parseable and codeable by both humans and machines. The files are smaller and the rendered images are always higher fidelity on any screen size. Animate them to create native feeling apps in the browser.
-1. Lourdes Montano - Learning and feeling overwhelmed: methods to organize your learning process in CSS
+1. [Lourdes Montano - Learning and feeling overwhelmed: methods to organize your learning process in CSS](https://2016.cascadiafest.org/speakers/lourdes-montano/)
  * Programming is hard, staying current is hard, getting discouraged is easy. Learn new things only when they seem relevant. Look back at your old code to see how you've changed. Respect your own learning pace. View messy projects as a learning opportunity.
 1. [Gregor Martynus - Welcoming Communities](https://2016.cascadiafest.org/speakers/gregor-martynus/)
  * Building a community around your open source project takes more work and different skills than just writing and publishing the code. Don't treat people like code. Be generous when you interpret what people say. Say, "thank you" when people contribute. Respond quickly and tell people that it will take time to review and give them a thorough response. It's easier to contribute to projects that are broken up into small modules with good documentation.
-1. Alan Stearns - Becoming Responsible for CSS
+1. [Alan Stearns - Becoming Responsible for CSS](https://2016.cascadiafest.org/speakers/alan-stearns/)
  * Browsers are evolving to support the features you want. CSS, HTML, and JS standards writers want input from developers, their users. Submit browser bugs. Do it.
 
 ## Browser Day
